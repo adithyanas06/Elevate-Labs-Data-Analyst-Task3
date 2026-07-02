@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock
+P001,Wireless Mouse,Electronics,799,50
+P002,Bluetooth Speaker,Electronics,1499,30
+P003,T-Shirt,Fashion,599,100
+P004,Running Shoes,Fashion,2499,40
+P005,Coffee Mug,Home & Kitchen,299,80
+P006,Notebook,Stationery,99,200
+P007,Water Bottle,Home & Kitchen,499,70
+P008,Backpack,Accessories,1299,35
+P009,Smart Watch,Electronics,3499,20
+P010,Desk Lamp,Home & Kitchen,899,25

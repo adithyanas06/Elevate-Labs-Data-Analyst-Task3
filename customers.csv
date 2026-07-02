@@ -1,0 +1,11 @@
+customer_id,customer_name,gender,city,state,join_date
+C001,Aarav Kumar,Male,Chennai,Tamil Nadu,2024-01-10
+C002,Diya Sharma,Female,Bengaluru,Karnataka,2024-01-15
+C003,Rohan Nair,Male,Kochi,Kerala,2024-02-01
+C004,Ananya Das,Female,Hyderabad,Telangana,2024-02-12
+C005,Vikram Singh,Male,Mumbai,Maharashtra,2024-03-05
+C006,Meera Iyer,Female,Coimbatore,Tamil Nadu,2024-03-18
+C007,Karthik Raj,Male,Madurai,Tamil Nadu,2024-04-02
+C008,Sneha Menon,Female,Thiruvananthapuram,Kerala,2024-04-10
+C009,Arjun Patel,Male,Ahmedabad,Gujarat,2024-05-01
+C010,Priya Verma,Female,Pune,Maharashtra,2024-05-20
